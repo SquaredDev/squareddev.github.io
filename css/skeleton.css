@@ -28,6 +28,10 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+#pro {
+  border-radius: 5px;
+}
+
 .container {
   position: relative;
   width: 100%;
@@ -125,7 +129,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: 'Titillium Web', sans-serif;
-  color: #222; 
+  color: #222;
   background-color: #9fa9a1;}
 
 
