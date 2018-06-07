@@ -45,6 +45,8 @@
   float: left;
   box-sizing: border-box; }
 
+.strike { text-decoration: line-through;}
+
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
